@@ -14,9 +14,9 @@ For the code to run, you need to download the alignment data files from Zenodo.
 [Raw projection reconstruction](https://zenodo.org/records/14258195/files/raw_projection_reconstruction.tar.gz?download=1)
 
 
-**Original Paper**
+**Original Paper** 
 
-[Multi-slice Electron Ptychographic Tomography for Three-dimensional Phase-contrast Microscopy beyond the Depth of Focus Limits](https://www.nature.com/articles/s41592-024-02218-y)
+[Multi-slice Electron Ptychographic Tomography for Three-dimensional Phase-contrast Microscopy beyond the Depth of Focus Limits](http://arxiv.org/abs/2311.02580)
 
 ## Authors
 
