@@ -3,8 +3,8 @@ from setuptools import setup
 setup(
     name='pytorch_radon',
     version='0.1.4',
-    author='Philipp Ernst',
-    author_email='phil23940@yahoo.de',
+    author='Philipp Pelz',
+    author_email='philipp.pelz@fau.de',
     packages=['pytorch_radon'],
     url='https://github.com/phernst/pytorch_radon.git',
     license='MIT',
