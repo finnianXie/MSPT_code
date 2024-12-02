@@ -35,10 +35,7 @@ For the code to run, you need to download the alignment data files from Zenodo.
 
 ## Teaser
 
-<video width="100%" height="100%" autoplay muted controls loop allowfullscreen preload="metadata" controlslist="nodownload noplaybackrate" poster="https://pelzlab.science/MSPT/images/eclipse_header.png">
-  <source src="https://pelzlab.science/MSPT/images/video.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+[Video](https://pelzlab.science/MSPT/images/video.mp4)
 
 ## Citation
 
