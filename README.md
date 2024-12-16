@@ -16,7 +16,7 @@ For the code to run, you need to download the alignment data files from Zenodo.
 
 **Original Paper** 
 
-[Multi-slice Electron Ptychographic Tomography for Three-dimensional Phase-contrast Microscopy beyond the Depth of Focus Limits](http://arxiv.org/abs/2311.02580)
+[Multi-slice Electron Ptychographic Tomography for Three-dimensional Phase-contrast Microscopy beyond the Depth of Focus Limits](https://iopscience.iop.org/article/10.1088/2515-7639/ad9ad2)
 
 ## Authors
 
@@ -40,11 +40,10 @@ For the code to run, you need to download the alignment data files from Zenodo.
 ## Citation
 
 ```
-@article{Romanov_Cho_Scott_Pelz_2023, 
-title={Multi-slice Electron Ptychographic Tomography for Three-dimensional Phase-contrast Microscopy beyond the Depth of Focus Limits}, 
-url={http://arxiv.org/abs/2311.02580}, DOI={10.48550/arXiv.2311.02580}, 
-number={arXiv:2311.02580}, 
-publisher={arXiv}, 
-author={Romanov, Andrey and Cho, Min Gee and Scott, Mary Cooper and Pelz, Philipp}, 
-year={2023}, month=nov }
+@article{romanov2024multi,
+  title={Multi-slice electron ptychographic tomography for three-dimensional phase-contrast microscopy beyond the depth of field limits},
+  author={Romanov, Andrey and Cho, Min Gee and Scott, Mary C and Pelz, Philipp},
+  journal={Journal of Physics: Materials},
+  year={2024}
+}
 ```
