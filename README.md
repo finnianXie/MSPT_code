@@ -1,5 +1,6 @@
-# MSPT_code
-Code for "Multi-slice Electron Ptychographic Tomography for Three-dimensional Phase-contrast Microscopy beyond the Depth of Focus Limits"
+# ✨ Code for:Multi-slice Electron Ptychographic Tomography for Three-dimensional Phase-contrast Microscopy beyond the Depth of Focus Limits  ✨
+[![Paper](https://img.shields.io/badge/JPhys_Materials_(2024)-b31b1b.svg)](https://iopscience.iop.org/article/10.1088/2515-7639/ad9ad2)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 For the code to run, you need to download the alignment data files from Zenodo.
 
