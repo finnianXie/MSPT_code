@@ -9,3 +9,7 @@ packaging~=25.0
 torch~=2.3.1+cu121
 tqdm~=4.67.1
 kornia~=0.7.3
+pytest~=8.3.4
+odl~=0.8.2
+future~=1.0.0
+zarr~=2.16.1
